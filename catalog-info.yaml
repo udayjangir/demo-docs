@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: documented-component
+  name: demo-docs
   title: Demo Docs
-  description: An example TechDocs documentation
+  description: An example TechDocs documentation for readthedocs theme
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
